@@ -3,7 +3,7 @@
 The following report discusses some insights about the effectiveness of US domestic flights run by major airlines in 2015. I created data visualizations to reveal insights, tell a story, or highlight patterns within the dataset using Tableau. The following steps outline my approach.
 
 This data comes from a Kaggle dataset, it tracks the on-time performance of US domestic flights operated by large air carriers in 2015.
-The file you must use in creating your data visualizations is the [flight.csv](https://github.com/hadywk/Flight-Delays-and-Cancellations/blob/1548eefe544befc0258ccbbe46cb5aa9d30e2a5b/flights.csv) file.
+The file you must use in creating your data visualizations is the [flights.csv](https://github.com/hadywk/Flight-Delays-and-Cancellations/blob/1548eefe544befc0258ccbbe46cb5aa9d30e2a5b/flights.csv) file.
 
 ## Visualization A: Which Airlines Have the Worst Airline Delays?
 
