@@ -14,4 +14,4 @@ The following insight describes the number of delays for every airline company p
 - Each airline company is represented by a unique color.
 - The number of airline delays is plotted over each month from January to December using an area chart.
 
-![Airline Delays](No of flight cancellation per month.png)
+[![Airline Delays](No of flight cancellation per month.png)](https://github.com/hadywk/Flight-Delays-and-Cancellations/blob/bc5aeaf3536b002fc3564e788500b6eff32e6ccf/No%20of%20flight%20cancellation%20per%20month.png)
