@@ -5,7 +5,7 @@ The following report discusses some insights about the effectiveness of US domes
 ## Visualization A: Which Airlines Have the Worst Airline Delays?
 
 **Links:**
-[View the visualization](https://public.tableau.com/shared/4K2PM6ZNC?:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/shared/4K2PM6ZNC?:display_count=n&:origin=viz_share_link)
 
 **Summary:**
 The following insight describes the number of delays for every airline company per month. Southwest Airlines Co. consistently had the most delays each month, with a peak of 1,505 delays in July. In contrast, Hawaiian Airlines Inc. had the least number of delays in July, with only 44 delays.
